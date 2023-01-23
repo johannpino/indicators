@@ -12,8 +12,7 @@
     "test:ci": "jest --ci"
   },
   "dependencies": {
-    "@mui/material": "^5.10.1",
-    "@mui/styled-engine-sc": "^5.10.1",
+    "@nextui-org/react": "^1.0.0-beta.12",
     "@reduxjs/toolkit": "^1.8.5",
     "next": "12.2.5",
     "react": "18.2.0",
